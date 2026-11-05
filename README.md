@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1740,55:3b3690,100:6964cb&height=230&section=header&text=Diogo%20Arede&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=CS%20Student%20%E2%80%A2%20Builder%20%E2%80%A2%20Tinkerer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Diogo Arede" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0d10,55:7a1d22,100:c7343a&height=230&section=header&text=Diogo%20Arede&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=CS%20Student%20%E2%80%A2%20Builder%20%E2%80%A2%20Tinkerer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Diogo Arede" />
 
 <a href="https://github.com/dmparede">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A6A3DC&center=true&vCenter=true&width=620&lines=CS+student+%40+Universidade+de+Aveiro;Building+AI+bots+%26+automations;Making+a+Roblox+game;Breaking+Linux+to+learn+it" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F4A3A5&center=true&vCenter=true&width=620&lines=CS+student+%40+Universidade+de+Aveiro;Building+AI+bots+%26+automations;Building+my+own+game;Breaking+Linux+to+learn+it" alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=dmparede&label=Profile%20views&color=6964cb&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dmparede&label=Profile%20views&color=c7343a&style=flat-square" alt="Profile views" />
 </p>
 
 </div>
@@ -18,7 +18,7 @@
 
 - 🎓 Computer Science student at **Universidade de Aveiro** 🇵🇹
 - 🤖 I build **AI-powered bots & automations** with Python
-- 🎮 Currently making a **Roblox game** in Luau
+- 🎮 Currently building my own **game**
 - 🐧 Learning my way around **Linux, shell scripting & the cloud**
 - 💼 Open to **freelance** work — bots, automation & AI integrations
 
@@ -74,4 +74,4 @@
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/dmparede/dmparede/output/github-snake.svg" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6964cb,55:3b3690,100:1a1740&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7343a,55:7a1d22,100:2a0d10&height=120&section=footer" width="100%" alt="" />
