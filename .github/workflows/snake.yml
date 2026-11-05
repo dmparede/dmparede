@@ -1,4 +1,4 @@
-name: Generate snake
+name: Generate snake & streak
 
 on:
   # runs once a day
@@ -16,7 +16,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Generate snake SVGs
@@ -26,6 +26,13 @@ jobs:
           outputs: |
             dist/github-snake.svg?color_snake=#6964cb&color_dots=#ebedf0,#d4d2f2,#a6a3dc,#7f7ad6,#6964cb
             dist/github-snake-dark.svg?color_snake=#a6a3dc&color_dots=#161b22,#2d2a6e,#4a45a0,#6964cb,#a6a3dc
+
+      - name: Generate streak stats SVG
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&background=135,1a1740,3b3690&hide_border=true&border_radius=12&stroke=6964cb&ring=a6a3dc&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a6a3dc&sideLabels=a6a3dc&dates=d4d2f2&timezone=Europe/Lisbon
+          path: dist/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
