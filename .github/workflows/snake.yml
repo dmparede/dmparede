@@ -24,13 +24,13 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#6964cb&color_dots=#ebedf0,#d4d2f2,#a6a3dc,#7f7ad6,#6964cb
-            dist/github-snake-dark.svg?color_snake=#a6a3dc&color_dots=#161b22,#2d2a6e,#4a45a0,#6964cb,#a6a3dc
+            dist/github-snake.svg?color_snake=#c7343a&color_dots=#ebedf0,#f8c9ca,#f08a8d,#d9474c,#a5232a
+            dist/github-snake-dark.svg?color_snake=#f4a3a5&color_dots=#161b22,#4a1418,#7a1d22,#b8343a,#f06a6f
 
       - name: Generate streak stats SVG
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: user=${{ github.repository_owner }}&background=135,1a1740,3b3690&hide_border=true&border_radius=12&stroke=6964cb&ring=a6a3dc&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a6a3dc&sideLabels=a6a3dc&dates=d4d2f2&timezone=Europe/Lisbon
+          options: user=${{ github.repository_owner }}&background=135,2a0d10,7a1d22&hide_border=true&border_radius=12&stroke=c7343a&ring=f4a3a5&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=f4a3a5&sideLabels=f4a3a5&dates=ffd1d2&timezone=Europe/Lisbon
           path: dist/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
