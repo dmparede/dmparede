@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A6A3DC&center=true&vCenter=true&width=620&lines=CS+student+%40+Universidade+de+Aveiro;Building+AI+bots+%26+automations;Making+a+Roblox+game;Breaking+Linux+to+learn+it" alt="Typing SVG" />
 </a>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=dmparede&label=Profile%20views&color=6964cb&style=flat-square" alt="Profile views" />
+</p>
+
 </div>
 
 <br />
@@ -58,7 +62,11 @@
 
 <br />
 
-### 🐍 Contribution snake
+### 📈 Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dmparede/dmparede/output/streak.svg" alt="GitHub streak" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dmparede/dmparede/output/github-snake-dark.svg" />
