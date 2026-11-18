@@ -48,6 +48,7 @@
         <li>🛟 Backup before every change and one-command revert</li>
       </ul>
       <p>
+        <a href="https://dmparede.github.io/NetTune/"><img src="https://img.shields.io/badge/Website-c7343a?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
         <a href="https://github.com/dmparede/NetTune/releases/latest"><img src="https://img.shields.io/github/v/release/dmparede/NetTune?style=flat-square&color=c7343a&label=release" alt="Latest release" /></a>
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
         <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
