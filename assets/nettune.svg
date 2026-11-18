@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="230" viewBox="0 0 440 230">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a0a0c"/>
+      <stop offset="1" stop-color="#3a1014"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="439" height="229" rx="12" fill="url(#bg)" stroke="#c7343a" stroke-opacity="0.6"/>
+  <circle cx="22" cy="20" r="5" fill="#ff5f57"/>
+  <circle cx="40" cy="20" r="5" fill="#febc2e"/>
+  <circle cx="58" cy="20" r="5" fill="#28c840"/>
+  <text x="220" y="24" fill="#f4a3a5" font-family="Consolas, 'Courier New', monospace" font-size="12" text-anchor="middle">PowerShell — NetTune</text>
+  <line x1="0" y1="38" x2="440" y2="38" stroke="#c7343a" stroke-opacity="0.35"/>
+  <text x="20" y="64" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#ffd1d2"><tspan fill="#f06a6f">PS&gt;</tspan> .\NetTune.ps1 -Mode Apply</text>
+  <text x="20" y="96" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#f4a3a5">avg ping to router</text>
+  <text x="20" y="140" font-family="Consolas, 'Courier New', monospace" font-size="34" font-weight="bold" fill="#8b949e">144<tspan font-size="16"> ms</tspan></text>
+  <text x="168" y="138" font-family="Consolas, 'Courier New', monospace" font-size="28" fill="#c7343a">→</text>
+  <text x="222" y="140" font-family="Consolas, 'Courier New', monospace" font-size="34" font-weight="bold" fill="#ffffff">3<tspan font-size="16"> ms</tspan></text>
+  <text x="300" y="138" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#28c840">✓ fixed</text>
+  <text x="20" y="176" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#ffd1d2">✓ backup saved   ✓ measured before/after</text>
+  <text x="20" y="200" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#ffd1d2">✓ one-command revert</text>
+  <text x="420" y="214" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="end">MediaTek MT7925 · Wi-Fi 7</text>
+</svg>
