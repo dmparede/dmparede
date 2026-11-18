@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0d10,55:7a1d22,100:c7343a&height=230&section=header&text=Diogo%20Arede&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=CS%20Student%20%E2%80%A2%20Builder%20%E2%80%A2%20Tinkerer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Diogo Arede" />
 
 <a href="https://github.com/dmparede">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F4A3A5&center=true&vCenter=true&width=620&lines=CS+student+%40+Universidade+de+Aveiro;Building+AI+bots+%26+automations;Building+my+own+game;Breaking+Linux+to+learn+it" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F4A3A5&center=true&vCenter=true&width=620&lines=CS+student+%40+Universidade+de+Aveiro;Killing+ping+spikes+with+NetTune;Building+AI+bots+%26+automations;Building+my+own+game" alt="Typing SVG" />
 </a>
 
 <p>
@@ -17,6 +17,7 @@
 ### 👋 About me
 
 - 🎓 Computer Science student at **Universidade de Aveiro** 🇵🇹
+- ⚡ Made **[NetTune](https://github.com/dmparede/NetTune)**, a PowerShell tool that measures and fixes ping spikes on Windows
 - 🤖 I build **AI-powered bots & automations** with Python
 - 🎮 Currently building my own **game**
 - 🐧 Learning my way around **Linux, shell scripting & the cloud**
@@ -34,9 +35,31 @@
 
 <br />
 
-### 🚀 Featured project
+### 🚀 Featured projects
 
 <table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>⚡ <a href="https://github.com/dmparede/NetTune">NetTune</a></h3>
+      <p>PowerShell tool for Windows 10/11 that measures your connection, applies only the tweaks that really help latency, and measures again to show the difference.</p>
+      <ul>
+        <li>📉 Took a Wi-Fi 7 laptop from <b>144 ms</b> to <b>3 ms</b> average ping to the router</li>
+        <li>🎯 No placebo tweaks: power saving, roaming, EEE, RSC and the fastest DNS only when it clearly wins</li>
+        <li>🛟 Backup before every change and one-command revert</li>
+      </ul>
+      <p>
+        <a href="https://github.com/dmparede/NetTune/releases/latest"><img src="https://img.shields.io/github/v/release/dmparede/NetTune?style=flat-square&color=c7343a&label=release" alt="Latest release" /></a>
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+        <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+        <img src="https://img.shields.io/github/license/dmparede/NetTune?style=flat-square&color=7a1d22" alt="License" />
+      </p>
+    </td>
+    <td width="45%" valign="middle">
+      <a href="https://github.com/dmparede/NetTune">
+        <img src="assets/nettune.svg" alt="NetTune before and after" />
+      </a>
+    </td>
+  </tr>
   <tr>
     <td width="55%" valign="top">
       <h3>💈 <a href="https://github.com/dmparede/fade-studio-bot">fade-studio-bot</a></h3>
